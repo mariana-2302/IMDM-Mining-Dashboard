@@ -1,0 +1,10 @@
+indicador;dimension;peso;peso_local
+num_conflictos;Social;0.2563;0.3892
+sentimiento_social;Social;0.3391;0.5149
+NBI;Social;0.0632;0.096
+multa_ambiental;Ambiental;0.1566;0.875
+pasivos_ambientales;Ambiental;0.0261;0.125
+empleo_local;Economica;0.0946;0.3668
+inversion_minera;Economica;0.0165;0.0823
+produccion_valor;Economica;0.0356;0.4726
+canon_minero;Economica;0.012;0.0783
